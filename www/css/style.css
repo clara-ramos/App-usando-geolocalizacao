@@ -1,2 +1,12 @@
-/**/
 
+button{
+ margin-top: 16px;
+}
+ 
+.map{
+  	margin:2px;
+	display:inline-block;
+	width:32px;
+	height:32px;
+
+}
